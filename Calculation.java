@@ -9,7 +9,7 @@ class Calculation
 		int sum = num1 + num2;
 		int difference = num1 - num2;
 		int multiplication = num1 * num2;
-		int average = num1 / num2;
+		int average = sum/2;
 		System.out.println("The First Number is : " +num1);
 		System.out.println("The Second Number is : " +num2);
 		System.out.println("The Sum is : " +sum);
